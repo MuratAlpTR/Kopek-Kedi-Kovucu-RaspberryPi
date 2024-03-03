@@ -71,7 +71,7 @@ Kutu veya Kasa: Tüm parçaları bir araya getirmek ve korumak için bir kutu ve
 
 
 
-			## DİKKAT OKU ##
+## DİKKAT OKU ##
 
 
 Bu kod, ultrasonik sensörün mesafe ölçümünü kullanarak hayvanların yaklaşmasını algılar ve buzzer ile uyarı verir. Ayrıca, köpek ve kedi butonlarına basıldığında ilgili mesajları seri ekrana yazdırır. Sensörün trig ve echo pinlerini doğru şekilde bağladığınızdan emin olun. Ayrıca, kodu kendi ihtiyaçlarınıza göre özelleştirebilirsiniz.
