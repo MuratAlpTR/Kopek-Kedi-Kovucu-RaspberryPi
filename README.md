@@ -1,4 +1,4 @@
-				###	Köpeğim mi, kedi mi? (Eğer köpeklerden ve Kedilerden korkuyorsanız)	###
+			###	Köpeğim mi, kedi mi? (Eğer köpeklerden ve Kedilerden korkuyorsanız)	###
 
 
 Proje Adı : " Kopek-Kedi-Kovucu.py "
@@ -24,7 +24,7 @@ Kutu veya Kasa: Tüm parçaları bir araya getirmek ve korumak için bir kutu ve
 
 
 
-						###	Köpeğim mi (Eğer köpeklerden korkuyorsanız)	###
+			###	Köpeğim mi (Eğer köpeklerden korkuyorsanız)	###
 
 Proje Adı : " Kopek-Kovucu.py "
 
@@ -46,7 +46,7 @@ Kutu veya Kasa: Tüm parçaları bir araya getirmek ve korumak için bir kutu ve
 
 
 
-						###	Kedi mi? (Eğer kedilerden korkuyorsanız)	###
+			###	Kedi mi? (Eğer kedilerden korkuyorsanız)	###
 
 Proje Adı : " Kedi-Kovucu.py "
 
@@ -71,7 +71,7 @@ Kutu veya Kasa: Tüm parçaları bir araya getirmek ve korumak için bir kutu ve
 
 
 
-## DİKKAT OKU ##
+			## DİKKAT OKU ##
 
 
 Bu kod, ultrasonik sensörün mesafe ölçümünü kullanarak hayvanların yaklaşmasını algılar ve buzzer ile uyarı verir. Ayrıca, köpek ve kedi butonlarına basıldığında ilgili mesajları seri ekrana yazdırır. Sensörün trig ve echo pinlerini doğru şekilde bağladığınızdan emin olun. Ayrıca, kodu kendi ihtiyaçlarınıza göre özelleştirebilirsiniz.
